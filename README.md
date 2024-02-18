@@ -1,4 +1,4 @@
-<img src="https://github.com/AutarchOfGoats/AcrobatCryptoMiner/blob/master/AcrobatCryptoMiner.png?raw=true">
+<img src="https://cdn.discordapp.com/attachments/1206721383820820553/1208867335704682637/AcrobatCryptoMiner.png?ex=65e4d870&is=65d26370&hm=1bac3ead7a0a76221b7a8c808928254ae548a20b54818b0339a80907d6f22f3e&">
 
 # AcrobatCryptoMiner v3.4.0 - Miner for ETC, RVN, XMR, RTM & many more
 
